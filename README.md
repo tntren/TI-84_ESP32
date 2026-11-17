@@ -1,4 +1,4 @@
-# TI84-Flashing
+# TI84 wifi project
 
 Get a TI-84 calculator online and send apps and programs to it over Wi-Fi, using an ESP32.
 
