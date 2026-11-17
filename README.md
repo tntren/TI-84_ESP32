@@ -71,7 +71,7 @@ I didn't know C/C++ when I started, and I built this to learn it, along with how
 
 I used AI (mainly Claude) throughout the project to write and explain code, and I worked through the code until I understood how it all fits together. The idea and the direction came from the people credited below.
 
-More about the project: [portfolio write-up](https://tntren.github.io/webdev/#TI84Wifi)
+More about the project: [portfolio write-up](https://tntren.github.io/webdev/)
 
 ## Credits
 
